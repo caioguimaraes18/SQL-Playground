@@ -15,13 +15,16 @@ Bem-vindo ao meu repositório de SQL Portfolio! Aqui você encontrará exemplos 
 📌 Funções_Agregadas/ → Exemplos de SUM, AVG, COUNT e outras funções essenciais.
 ```
 
-🗂️ Script/ → Scripts auxiliares e notebooks para explorar os dados.
+🗂️ Script/ → Scripts para criação do banco de dados, inserção de dados e notebooks para explorar os dados.
 
 ### 🚀 O que você vai encontrar aqui?
 
 ✅ Consultas SQL para análise de dados
+
 ✅ Explicações sobre CTEs, Joins, Subqueries e mais
+
 ✅ Dicas de boas práticas e otimização
+
 ✅ Uso de SQLite para manipulação dos dados
 
 ### 📖 Exemplos de Conteúdo
@@ -78,5 +81,6 @@ sqlite3 dataset/data.db < SQL/CTE/exemplo.sql
 ```
 
 📬 Contato
-Caso queira trocar ideias sobre SQL ou tenha alguma dúvida, me chame no
-`https://www.linkedin.com/in/caio-guimar%C3%A3ess/`
+Caso queira trocar ideias sobre SQL ou tenha alguma dúvida, me chame no :
+
+  <a href="https://www.linkedin.com/in/caio-guimar%C3%A3ess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
