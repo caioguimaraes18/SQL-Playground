@@ -5,8 +5,6 @@ Bem-vindo ao meu repositório de SQL Portfolio! Aqui você encontrará exemplos 
 
 ## 📂 Estrutura do Repositório
 
-🗂️ dataset/ → Contém os bancos de dados utilizados nos exemplos.
-
 🗂️ SQL/ → Diretório principal com consultas organizadas.
 
 ```
@@ -16,6 +14,8 @@ Bem-vindo ao meu repositório de SQL Portfolio! Aqui você encontrará exemplos 
 ```
 
 🗂️ Script/ → Scripts para criação do banco de dados, inserção de dados e notebooks para explorar os dados.
+
+🗂️ dataset/ → Contém os bancos de dados utilizados nos exemplos.
 
 ### 🚀 O que você vai encontrar aqui?
 
@@ -60,6 +60,7 @@ JOIN produtos p ON v.produto_id = p.produto_id;
 
 ``` bash
 git clone https://github.com/seu-usuario/sql-portfolio.git
+
 cd sql-portfolio
 ```
 
