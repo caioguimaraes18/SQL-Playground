@@ -1,0 +1,201 @@
+Order_ID,ID,Cliente,Restaurante,Categoria_Pedido,Valor_Pedido,Taxa_Entrega,Horario_Pedido,Metodo_Pagamento,Tempo_Entrega_Min,Status_Pedido,Avaliacao
+ORD44734,1,Cliente_1,Restaurante_29,Hambúrguer,286.01,2.19,2024-01-01 11:00:00,Dinheiro,49,Em andamento,5
+ORD65054,2,Cliente_2,Restaurante_24,Bebidas,161.94,10.37,2024-01-01 11:01:00,Boleto,52,Entregue,1
+ORD54901,3,Cliente_3,Restaurante_25,Churrasco,161.75,7.83,2024-01-01 11:02:00,PIX,24,Entregue,4
+ORD53467,4,Cliente_4,Restaurante_44,Hambúrguer,141.42,10.02,2024-01-01 11:03:00,Cartão de Crédito,42,Em andamento,4
+ORD27664,5,Cliente_5,Restaurante_33,Bebidas,188.26,9.06,2024-01-01 11:04:00,Boleto,11,Cancelado,5
+ORD82171,6,Cliente_6,Restaurante_37,Sushi,161.86,11.87,2024-01-01 11:05:00,Cartão de Crédito,16,Entregue,1
+ORD15501,7,Cliente_7,Restaurante_19,Churrasco,263.72,14.48,2024-01-01 11:06:00,PIX,43,Em andamento,2
+ORD57783,8,Cliente_8,Restaurante_41,Salada,31.96,3.48,2024-01-01 11:07:00,Cartão de Crédito,26,Em andamento,5
+ORD36103,9,Cliente_9,Restaurante_4,Churrasco,203.18,9.62,2024-01-01 11:08:00,Dinheiro,19,Entregue,5
+ORD72208,10,Cliente_10,Restaurante_14,Salada,57.24,4.41,2024-01-01 11:09:00,Carteira Digital,53,Cancelado,1
+ORD58231,11,Cliente_11,Restaurante_17,Hambúrguer,197.41,13.78,2024-01-01 11:10:00,Carteira Digital,36,Cancelado,2
+ORD81374,12,Cliente_12,Restaurante_17,Sushi,70.28,3.21,2024-01-01 11:11:00,Dinheiro,45,Cancelado,2
+ORD62534,13,Cliente_13,Restaurante_12,Hambúrguer,188.06,2.06,2024-01-01 11:12:00,Carteira Digital,33,Cancelado,1
+ORD28675,14,Cliente_14,Restaurante_46,Hambúrguer,289.12,12.93,2024-01-01 11:13:00,Cartão de Crédito,18,Entregue,5
+ORD15937,15,Cliente_15,Restaurante_47,Vegano,245.89,2.42,2024-01-01 11:14:00,Boleto,38,Entregue,2
+ORD94952,16,Cliente_16,Restaurante_32,Marmita,294.49,9.25,2024-01-01 11:15:00,PIX,12,Em andamento,4
+ORD68100,17,Cliente_17,Restaurante_21,Bebidas,268.81,14.26,2024-01-01 11:16:00,Carteira Digital,55,Em andamento,2
+ORD26008,18,Cliente_18,Restaurante_41,Churrasco,133.71,14.71,2024-01-01 11:17:00,Dinheiro,24,Em andamento,1
+ORD63299,19,Cliente_19,Restaurante_41,Salada,186.04,12.57,2024-01-01 11:18:00,Boleto,11,Cancelado,3
+ORD75622,20,Cliente_20,Restaurante_16,Vegano,110.17,5.68,2024-01-01 11:19:00,Boleto,21,Cancelado,5
+ORD42258,21,Cliente_21,Restaurante_47,Sushi,94.0,2.68,2024-01-01 11:20:00,Cartão de Crédito,46,Entregue,4
+ORD20382,22,Cliente_22,Restaurante_46,Bebidas,247.91,3.59,2024-01-01 11:21:00,Carteira Digital,59,Entregue,2
+ORD63488,23,Cliente_23,Restaurante_3,Pizza,180.97,4.41,2024-01-01 11:22:00,PIX,19,Cancelado,1
+ORD11842,24,Cliente_24,Restaurante_25,Sushi,46.96,8.03,2024-01-01 11:23:00,PIX,14,Entregue,1
+ORD49445,25,Cliente_25,Restaurante_29,Salada,81.46,11.13,2024-01-01 11:24:00,Boleto,39,Cancelado,3
+ORD99971,26,Cliente_26,Restaurante_37,Vegano,25.99,9.34,2024-01-01 11:25:00,PIX,57,Entregue,1
+ORD64213,27,Cliente_27,Restaurante_33,Marmita,248.99,4.71,2024-01-01 11:26:00,Carteira Digital,34,Em andamento,3
+ORD39043,28,Cliente_28,Restaurante_31,Sushi,292.63,12.68,2024-01-01 11:27:00,Dinheiro,59,Cancelado,3
+ORD96573,29,Cliente_29,Restaurante_33,Salada,59.53,7.68,2024-01-01 11:28:00,Dinheiro,54,Cancelado,3
+ORD41043,30,Cliente_30,Restaurante_4,Salada,260.76,5.9,2024-01-01 11:29:00,Cartão de Crédito,44,Em andamento,3
+ORD57666,31,Cliente_31,Restaurante_45,Pizza,70.65,13.5,2024-01-01 11:30:00,Boleto,32,Entregue,2
+ORD26380,32,Cliente_32,Restaurante_26,Pizza,59.55,6.53,2024-01-01 11:31:00,Carteira Digital,38,Em andamento,4
+ORD76156,33,Cliente_33,Restaurante_12,Salada,231.76,6.86,2024-01-01 11:32:00,Dinheiro,25,Entregue,4
+ORD79925,34,Cliente_34,Restaurante_45,Churrasco,88.01,2.13,2024-01-01 11:33:00,Carteira Digital,47,Cancelado,2
+ORD25378,35,Cliente_35,Restaurante_3,Churrasco,39.78,7.6,2024-01-01 11:34:00,PIX,46,Em andamento,1
+ORD10644,36,Cliente_36,Restaurante_48,Marmita,57.43,11.48,2024-01-01 11:35:00,Cartão de Crédito,15,Entregue,3
+ORD72824,37,Cliente_37,Restaurante_50,Hambúrguer,225.56,9.8,2024-01-01 11:36:00,Boleto,25,Entregue,1
+ORD76375,38,Cliente_38,Restaurante_41,Salada,181.29,11.98,2024-01-01 11:37:00,Boleto,11,Cancelado,5
+ORD49745,39,Cliente_39,Restaurante_1,Salada,247.28,2.48,2024-01-01 11:38:00,Carteira Digital,42,Entregue,1
+ORD12670,40,Cliente_40,Restaurante_47,Vegano,244.52,7.82,2024-01-01 11:39:00,PIX,43,Em andamento,2
+ORD70304,41,Cliente_41,Restaurante_35,Salada,41.25,8.55,2024-01-01 11:40:00,Cartão de Crédito,16,Cancelado,5
+ORD79384,42,Cliente_42,Restaurante_48,Marmita,101.09,11.74,2024-01-01 11:41:00,Boleto,49,Entregue,5
+ORD53338,43,Cliente_43,Restaurante_27,Vegano,12.23,5.65,2024-01-01 11:42:00,PIX,48,Cancelado,1
+ORD65839,44,Cliente_44,Restaurante_6,Sushi,261.28,11.46,2024-01-01 11:43:00,Dinheiro,31,Cancelado,3
+ORD20135,45,Cliente_45,Restaurante_17,Salada,35.85,2.92,2024-01-01 11:44:00,Boleto,41,Entregue,3
+ORD71402,46,Cliente_46,Restaurante_6,Churrasco,260.72,6.27,2024-01-01 11:45:00,Dinheiro,47,Cancelado,1
+ORD60788,47,Cliente_47,Restaurante_9,Churrasco,17.08,14.44,2024-01-01 11:46:00,Carteira Digital,47,Em andamento,2
+ORD50836,48,Cliente_48,Restaurante_5,Pizza,155.01,2.44,2024-01-01 11:47:00,Carteira Digital,46,Cancelado,5
+ORD41608,49,Cliente_49,Restaurante_20,Hambúrguer,187.6,10.18,2024-01-01 11:48:00,Cartão de Crédito,11,Entregue,1
+ORD61496,50,Cliente_50,Restaurante_48,Sushi,101.65,3.6,2024-01-01 11:49:00,Boleto,54,Cancelado,2
+ORD64405,51,Cliente_51,Restaurante_2,Churrasco,151.61,3.59,2024-01-01 11:50:00,Carteira Digital,56,Em andamento,1
+ORD10903,52,Cliente_52,Restaurante_4,Sushi,236.36,11.66,2024-01-01 11:51:00,Cartão de Crédito,54,Cancelado,5
+ORD23204,53,Cliente_53,Restaurante_32,Vegano,81.22,12.25,2024-01-01 11:52:00,Dinheiro,35,Em andamento,4
+ORD76873,54,Cliente_54,Restaurante_40,Sushi,254.22,4.87,2024-01-01 11:53:00,Cartão de Crédito,11,Em andamento,2
+ORD93293,55,Cliente_55,Restaurante_33,Hambúrguer,222.45,3.87,2024-01-01 11:54:00,Carteira Digital,34,Entregue,4
+ORD79188,56,Cliente_56,Restaurante_45,Bebidas,232.88,13.43,2024-01-01 11:55:00,PIX,59,Entregue,3
+ORD20832,57,Cliente_57,Restaurante_23,Salada,51.01,9.65,2024-01-01 11:56:00,Cartão de Crédito,54,Em andamento,5
+ORD96620,58,Cliente_58,Restaurante_8,Bebidas,96.05,4.72,2024-01-01 11:57:00,Dinheiro,30,Em andamento,5
+ORD16044,59,Cliente_59,Restaurante_9,Vegano,268.83,7.82,2024-01-01 11:58:00,Boleto,53,Entregue,2
+ORD77406,60,Cliente_60,Restaurante_41,Sushi,265.43,4.72,2024-01-01 11:59:00,Boleto,23,Em andamento,5
+ORD57067,61,Cliente_61,Restaurante_9,Churrasco,251.77,2.91,2024-01-01 12:00:00,Boleto,37,Cancelado,2
+ORD93666,62,Cliente_62,Restaurante_3,Churrasco,149.49,13.91,2024-01-01 12:01:00,Boleto,52,Cancelado,2
+ORD48465,63,Cliente_63,Restaurante_32,Churrasco,86.18,8.88,2024-01-01 12:02:00,Dinheiro,54,Cancelado,2
+ORD42513,64,Cliente_64,Restaurante_7,Vegano,51.12,5.9,2024-01-01 12:03:00,Carteira Digital,47,Cancelado,4
+ORD97149,65,Cliente_65,Restaurante_22,Marmita,67.58,11.81,2024-01-01 12:04:00,Dinheiro,19,Entregue,2
+ORD77407,66,Cliente_66,Restaurante_33,Salada,112.5,10.48,2024-01-01 12:05:00,Carteira Digital,48,Cancelado,5
+ORD78888,67,Cliente_67,Restaurante_45,Marmita,95.27,2.94,2024-01-01 12:06:00,Dinheiro,16,Entregue,1
+ORD76921,68,Cliente_68,Restaurante_5,Marmita,101.65,14.83,2024-01-01 12:07:00,Dinheiro,34,Cancelado,1
+ORD21451,69,Cliente_69,Restaurante_6,Pizza,146.36,9.46,2024-01-01 12:08:00,Cartão de Crédito,38,Em andamento,3
+ORD55772,70,Cliente_70,Restaurante_17,Pizza,194.87,6.64,2024-01-01 12:09:00,Boleto,16,Cancelado,4
+ORD91990,71,Cliente_71,Restaurante_32,Hambúrguer,98.46,11.76,2024-01-01 12:10:00,Cartão de Crédito,33,Cancelado,1
+ORD89393,72,Cliente_72,Restaurante_34,Hambúrguer,134.46,9.54,2024-01-01 12:11:00,Boleto,33,Cancelado,1
+ORD32432,73,Cliente_73,Restaurante_9,Marmita,182.97,11.83,2024-01-01 12:12:00,Dinheiro,43,Entregue,3
+ORD53212,74,Cliente_74,Restaurante_24,Bebidas,299.15,10.76,2024-01-01 12:13:00,Cartão de Crédito,42,Cancelado,5
+ORD21050,75,Cliente_75,Restaurante_34,Marmita,178.51,12.8,2024-01-01 12:14:00,PIX,53,Em andamento,4
+ORD60558,76,Cliente_76,Restaurante_38,Churrasco,266.31,10.69,2024-01-01 12:15:00,Boleto,59,Cancelado,4
+ORD19203,77,Cliente_77,Restaurante_21,Salada,189.97,6.95,2024-01-01 12:16:00,Carteira Digital,47,Em andamento,3
+ORD58319,78,Cliente_78,Restaurante_22,Pizza,202.52,13.18,2024-01-01 12:17:00,Boleto,17,Entregue,2
+ORD79714,79,Cliente_79,Restaurante_3,Pizza,198.21,4.66,2024-01-01 12:18:00,PIX,16,Em andamento,4
+ORD52968,80,Cliente_80,Restaurante_45,Sushi,13.85,14.85,2024-01-01 12:19:00,Carteira Digital,37,Cancelado,2
+ORD51800,81,Cliente_81,Restaurante_48,Bebidas,197.37,14.66,2024-01-01 12:20:00,PIX,30,Cancelado,5
+ORD63274,82,Cliente_82,Restaurante_26,Pizza,184.06,3.92,2024-01-01 12:21:00,Boleto,38,Cancelado,4
+ORD65172,83,Cliente_83,Restaurante_18,Churrasco,254.71,6.85,2024-01-01 12:22:00,Dinheiro,26,Entregue,5
+ORD85488,84,Cliente_84,Restaurante_47,Salada,110.67,6.42,2024-01-01 12:23:00,Cartão de Crédito,10,Entregue,2
+ORD80825,85,Cliente_85,Restaurante_42,Salada,73.31,13.41,2024-01-01 12:24:00,Cartão de Crédito,42,Entregue,2
+ORD25946,86,Cliente_86,Restaurante_42,Pizza,81.83,8.58,2024-01-01 12:25:00,Dinheiro,37,Entregue,5
+ORD16274,87,Cliente_87,Restaurante_10,Marmita,73.97,8.71,2024-01-01 12:26:00,Cartão de Crédito,32,Cancelado,4
+ORD39877,88,Cliente_88,Restaurante_50,Salada,127.4,13.74,2024-01-01 12:27:00,Dinheiro,46,Em andamento,5
+ORD58079,89,Cliente_89,Restaurante_26,Vegano,248.61,10.52,2024-01-01 12:28:00,PIX,58,Cancelado,5
+ORD43440,90,Cliente_90,Restaurante_28,Hambúrguer,263.46,9.93,2024-01-01 12:29:00,Dinheiro,40,Em andamento,1
+ORD36001,91,Cliente_91,Restaurante_41,Hambúrguer,39.87,7.74,2024-01-01 12:30:00,Carteira Digital,49,Entregue,2
+ORD46648,92,Cliente_92,Restaurante_10,Bebidas,94.29,8.74,2024-01-01 12:31:00,Carteira Digital,31,Em andamento,4
+ORD21294,93,Cliente_93,Restaurante_30,Marmita,23.54,6.26,2024-01-01 12:32:00,Boleto,34,Em andamento,1
+ORD15030,94,Cliente_94,Restaurante_4,Marmita,147.88,4.42,2024-01-01 12:33:00,Dinheiro,54,Em andamento,3
+ORD40959,95,Cliente_95,Restaurante_17,Salada,128.66,7.06,2024-01-01 12:34:00,Boleto,14,Cancelado,2
+ORD54925,96,Cliente_96,Restaurante_37,Marmita,130.21,3.47,2024-01-01 12:35:00,Carteira Digital,16,Entregue,3
+ORD51525,97,Cliente_97,Restaurante_29,Vegano,127.68,2.86,2024-01-01 12:36:00,Carteira Digital,56,Entregue,1
+ORD44037,98,Cliente_98,Restaurante_11,Sushi,263.6,10.9,2024-01-01 12:37:00,Boleto,59,Entregue,1
+ORD51355,99,Cliente_99,Restaurante_50,Bebidas,258.9,12.9,2024-01-01 12:38:00,Carteira Digital,34,Em andamento,2
+ORD78083,100,Cliente_100,Restaurante_5,Bebidas,68.47,2.92,2024-01-01 12:39:00,Dinheiro,38,Entregue,2
+ORD70951,101,Cliente_101,Restaurante_4,Salada,131.46,7.68,2024-01-01 12:40:00,Boleto,25,Entregue,1
+ORD61121,102,Cliente_102,Restaurante_20,Pizza,116.15,2.84,2024-01-01 12:41:00,PIX,48,Cancelado,4
+ORD57392,103,Cliente_103,Restaurante_25,Sushi,139.12,5.8,2024-01-01 12:42:00,Boleto,34,Entregue,1
+ORD41799,104,Cliente_104,Restaurante_19,Bebidas,161.84,12.44,2024-01-01 12:43:00,Cartão de Crédito,56,Em andamento,4
+ORD46562,105,Cliente_105,Restaurante_38,Sushi,113.08,5.64,2024-01-01 12:44:00,PIX,45,Em andamento,3
+ORD16317,106,Cliente_106,Restaurante_8,Vegano,195.72,5.31,2024-01-01 12:45:00,Boleto,34,Cancelado,1
+ORD49829,107,Cliente_107,Restaurante_25,Vegano,274.57,5.84,2024-01-01 12:46:00,Cartão de Crédito,50,Entregue,1
+ORD53349,108,Cliente_108,Restaurante_29,Marmita,137.59,9.12,2024-01-01 12:47:00,Boleto,36,Cancelado,4
+ORD13955,109,Cliente_109,Restaurante_48,Sushi,59.03,13.62,2024-01-01 12:48:00,Carteira Digital,31,Em andamento,3
+ORD79193,110,Cliente_110,Restaurante_25,Marmita,11.48,9.3,2024-01-01 12:49:00,Boleto,56,Cancelado,2
+ORD47816,111,Cliente_111,Restaurante_14,Bebidas,224.36,10.16,2024-01-01 12:50:00,PIX,39,Em andamento,1
+ORD23347,112,Cliente_112,Restaurante_27,Sushi,233.91,8.85,2024-01-01 12:51:00,Boleto,50,Entregue,5
+ORD98638,113,Cliente_113,Restaurante_36,Vegano,294.12,13.3,2024-01-01 12:52:00,PIX,11,Entregue,4
+ORD78308,114,Cliente_114,Restaurante_17,Churrasco,214.92,11.23,2024-01-01 12:53:00,PIX,16,Em andamento,5
+ORD34734,115,Cliente_115,Restaurante_47,Marmita,254.41,8.94,2024-01-01 12:54:00,Dinheiro,14,Em andamento,1
+ORD24700,116,Cliente_116,Restaurante_26,Marmita,224.48,14.82,2024-01-01 12:55:00,Cartão de Crédito,42,Entregue,1
+ORD96433,117,Cliente_117,Restaurante_8,Churrasco,108.24,7.16,2024-01-01 12:56:00,Carteira Digital,43,Entregue,2
+ORD90774,118,Cliente_118,Restaurante_39,Sushi,19.68,9.97,2024-01-01 12:57:00,PIX,55,Cancelado,5
+ORD43942,119,Cliente_119,Restaurante_24,Vegano,38.85,9.84,2024-01-01 12:58:00,PIX,15,Em andamento,2
+ORD71328,120,Cliente_120,Restaurante_26,Vegano,165.77,9.07,2024-01-01 12:59:00,Boleto,27,Cancelado,2
+ORD29629,121,Cliente_121,Restaurante_18,Sushi,63.35,12.5,2024-01-01 13:00:00,Cartão de Crédito,24,Em andamento,3
+ORD10632,122,Cliente_122,Restaurante_13,Hambúrguer,191.12,4.98,2024-01-01 13:01:00,Cartão de Crédito,37,Cancelado,1
+ORD27993,123,Cliente_123,Restaurante_48,Bebidas,70.73,2.34,2024-01-01 13:02:00,Cartão de Crédito,16,Cancelado,3
+ORD95741,124,Cliente_124,Restaurante_19,Pizza,147.16,7.61,2024-01-01 13:03:00,Dinheiro,22,Cancelado,5
+ORD46357,125,Cliente_125,Restaurante_48,Churrasco,244.9,4.23,2024-01-01 13:04:00,PIX,45,Entregue,5
+ORD60917,126,Cliente_126,Restaurante_16,Pizza,279.51,7.93,2024-01-01 13:05:00,PIX,56,Em andamento,3
+ORD16278,127,Cliente_127,Restaurante_13,Pizza,23.58,13.68,2024-01-01 13:06:00,Dinheiro,60,Cancelado,3
+ORD94722,128,Cliente_128,Restaurante_2,Marmita,59.79,3.77,2024-01-01 13:07:00,Cartão de Crédito,42,Cancelado,4
+ORD38521,129,Cliente_129,Restaurante_29,Pizza,81.61,5.51,2024-01-01 13:08:00,Carteira Digital,14,Cancelado,3
+ORD45032,130,Cliente_130,Restaurante_50,Hambúrguer,179.86,13.7,2024-01-01 13:09:00,Boleto,41,Entregue,5
+ORD53087,131,Cliente_131,Restaurante_38,Hambúrguer,16.32,10.46,2024-01-01 13:10:00,Carteira Digital,42,Em andamento,5
+ORD37549,132,Cliente_132,Restaurante_5,Sushi,205.82,9.27,2024-01-01 13:11:00,Carteira Digital,22,Em andamento,2
+ORD34429,133,Cliente_133,Restaurante_21,Vegano,217.5,2.83,2024-01-01 13:12:00,Boleto,12,Entregue,5
+ORD45901,134,Cliente_134,Restaurante_30,Salada,256.9,12.86,2024-01-01 13:13:00,Dinheiro,11,Em andamento,1
+ORD80754,135,Cliente_135,Restaurante_32,Hambúrguer,196.99,8.35,2024-01-01 13:14:00,Dinheiro,32,Entregue,3
+ORD19580,136,Cliente_136,Restaurante_41,Pizza,210.23,5.9,2024-01-01 13:15:00,Dinheiro,34,Em andamento,5
+ORD84404,137,Cliente_137,Restaurante_14,Vegano,52.86,13.8,2024-01-01 13:16:00,Boleto,18,Em andamento,2
+ORD13290,138,Cliente_138,Restaurante_27,Bebidas,207.04,12.23,2024-01-01 13:17:00,Boleto,40,Cancelado,1
+ORD38395,139,Cliente_139,Restaurante_13,Hambúrguer,108.9,11.4,2024-01-01 13:18:00,PIX,46,Em andamento,5
+ORD79305,140,Cliente_140,Restaurante_34,Salada,190.52,6.77,2024-01-01 13:19:00,Carteira Digital,26,Em andamento,2
+ORD27400,141,Cliente_141,Restaurante_11,Pizza,138.09,2.12,2024-01-01 13:20:00,PIX,36,Entregue,1
+ORD69770,142,Cliente_142,Restaurante_10,Churrasco,267.72,12.83,2024-01-01 13:21:00,Cartão de Crédito,27,Entregue,2
+ORD24451,143,Cliente_143,Restaurante_47,Marmita,148.08,10.17,2024-01-01 13:22:00,Carteira Digital,58,Em andamento,4
+ORD32752,144,Cliente_144,Restaurante_5,Bebidas,64.92,12.34,2024-01-01 13:23:00,Boleto,22,Entregue,3
+ORD19862,145,Cliente_145,Restaurante_13,Pizza,241.55,6.41,2024-01-01 13:24:00,Carteira Digital,49,Cancelado,5
+ORD96194,146,Cliente_146,Restaurante_48,Vegano,112.01,3.31,2024-01-01 13:25:00,PIX,16,Entregue,2
+ORD83917,147,Cliente_147,Restaurante_22,Bebidas,130.04,7.32,2024-01-01 13:26:00,Carteira Digital,59,Em andamento,1
+ORD25729,148,Cliente_148,Restaurante_13,Hambúrguer,259.68,9.91,2024-01-01 13:27:00,Carteira Digital,14,Entregue,2
+ORD26336,149,Cliente_149,Restaurante_27,Bebidas,192.71,6.35,2024-01-01 13:28:00,Dinheiro,51,Em andamento,2
+ORD24510,150,Cliente_150,Restaurante_8,Sushi,55.18,4.36,2024-01-01 13:29:00,Boleto,56,Cancelado,5
+ORD26364,151,Cliente_151,Restaurante_36,Vegano,31.37,4.41,2024-01-01 13:30:00,Dinheiro,25,Entregue,2
+ORD50209,152,Cliente_152,Restaurante_27,Marmita,112.54,13.04,2024-01-01 13:31:00,PIX,11,Entregue,3
+ORD33323,153,Cliente_153,Restaurante_48,Marmita,239.71,5.07,2024-01-01 13:32:00,Carteira Digital,27,Entregue,4
+ORD65040,154,Cliente_154,Restaurante_19,Marmita,267.4,14.9,2024-01-01 13:33:00,PIX,54,Cancelado,1
+ORD84861,155,Cliente_155,Restaurante_20,Bebidas,188.8,10.36,2024-01-01 13:34:00,Cartão de Crédito,48,Em andamento,4
+ORD25211,156,Cliente_156,Restaurante_10,Vegano,270.89,11.49,2024-01-01 13:35:00,Boleto,30,Cancelado,3
+ORD27049,157,Cliente_157,Restaurante_19,Marmita,221.18,2.0,2024-01-01 13:36:00,Boleto,53,Cancelado,4
+ORD38304,158,Cliente_158,Restaurante_1,Marmita,207.64,12.54,2024-01-01 13:37:00,Dinheiro,46,Entregue,4
+ORD96017,159,Cliente_159,Restaurante_32,Churrasco,44.73,2.17,2024-01-01 13:38:00,Boleto,48,Em andamento,5
+ORD69438,160,Cliente_160,Restaurante_11,Marmita,63.98,9.62,2024-01-01 13:39:00,Cartão de Crédito,39,Em andamento,5
+ORD44894,161,Cliente_161,Restaurante_9,Salada,238.04,9.68,2024-01-01 13:40:00,Boleto,57,Cancelado,2
+ORD68585,162,Cliente_162,Restaurante_28,Hambúrguer,184.05,12.78,2024-01-01 13:41:00,Boleto,42,Entregue,5
+ORD28789,163,Cliente_163,Restaurante_45,Churrasco,286.03,10.45,2024-01-01 13:42:00,Dinheiro,54,Em andamento,5
+ORD20617,164,Cliente_164,Restaurante_16,Churrasco,63.8,14.74,2024-01-01 13:43:00,Carteira Digital,40,Cancelado,4
+ORD61731,165,Cliente_165,Restaurante_23,Churrasco,256.83,10.67,2024-01-01 13:44:00,Carteira Digital,47,Cancelado,4
+ORD96046,166,Cliente_166,Restaurante_27,Pizza,164.35,13.92,2024-01-01 13:45:00,Carteira Digital,42,Cancelado,1
+ORD19881,167,Cliente_167,Restaurante_18,Salada,297.16,7.0,2024-01-01 13:46:00,Carteira Digital,57,Em andamento,2
+ORD33622,168,Cliente_168,Restaurante_50,Salada,238.7,7.47,2024-01-01 13:47:00,Cartão de Crédito,31,Cancelado,3
+ORD90847,169,Cliente_169,Restaurante_20,Marmita,196.95,5.61,2024-01-01 13:48:00,Boleto,45,Em andamento,4
+ORD20329,170,Cliente_170,Restaurante_41,Bebidas,54.58,14.13,2024-01-01 13:49:00,Carteira Digital,30,Entregue,1
+ORD88964,171,Cliente_171,Restaurante_36,Sushi,105.89,4.16,2024-01-01 13:50:00,Cartão de Crédito,15,Cancelado,3
+ORD51671,172,Cliente_172,Restaurante_6,Hambúrguer,20.91,7.32,2024-01-01 13:51:00,Dinheiro,36,Em andamento,3
+ORD49479,173,Cliente_173,Restaurante_20,Marmita,68.11,10.09,2024-01-01 13:52:00,PIX,48,Entregue,4
+ORD90929,174,Cliente_174,Restaurante_34,Vegano,180.63,5.46,2024-01-01 13:53:00,Carteira Digital,35,Em andamento,3
+ORD40813,175,Cliente_175,Restaurante_18,Vegano,173.58,2.44,2024-01-01 13:54:00,Boleto,33,Entregue,5
+ORD68880,176,Cliente_176,Restaurante_22,Pizza,157.95,10.75,2024-01-01 13:55:00,Cartão de Crédito,16,Cancelado,3
+ORD13888,177,Cliente_177,Restaurante_39,Pizza,250.4,9.26,2024-01-01 13:56:00,Boleto,50,Entregue,4
+ORD53874,178,Cliente_178,Restaurante_22,Sushi,84.51,5.09,2024-01-01 13:57:00,Carteira Digital,34,Entregue,4
+ORD53450,179,Cliente_179,Restaurante_1,Churrasco,139.86,13.62,2024-01-01 13:58:00,Boleto,12,Cancelado,3
+ORD21017,180,Cliente_180,Restaurante_27,Marmita,79.59,6.41,2024-01-01 13:59:00,Dinheiro,54,Entregue,5
+ORD98490,181,Cliente_181,Restaurante_12,Sushi,244.9,6.03,2024-01-01 14:00:00,Cartão de Crédito,34,Cancelado,4
+ORD26478,182,Cliente_182,Restaurante_36,Vegano,10.07,7.65,2024-01-01 14:01:00,Carteira Digital,26,Em andamento,4
+ORD10085,183,Cliente_183,Restaurante_21,Vegano,107.88,6.72,2024-01-01 14:02:00,Dinheiro,33,Em andamento,5
+ORD38794,184,Cliente_184,Restaurante_28,Vegano,20.83,2.75,2024-01-01 14:03:00,Dinheiro,39,Entregue,3
+ORD63015,185,Cliente_185,Restaurante_24,Pizza,86.79,6.8,2024-01-01 14:04:00,Boleto,39,Cancelado,1
+ORD92439,186,Cliente_186,Restaurante_8,Marmita,286.97,11.24,2024-01-01 14:05:00,Boleto,14,Em andamento,1
+ORD83988,187,Cliente_187,Restaurante_1,Vegano,157.44,12.58,2024-01-01 14:06:00,Boleto,11,Entregue,3
+ORD42033,188,Cliente_188,Restaurante_1,Churrasco,179.82,5.51,2024-01-01 14:07:00,Cartão de Crédito,58,Cancelado,1
+ORD46487,189,Cliente_189,Restaurante_42,Hambúrguer,167.14,8.65,2024-01-01 14:08:00,Boleto,39,Em andamento,1
+ORD48808,190,Cliente_190,Restaurante_13,Sushi,201.9,13.68,2024-01-01 14:09:00,Dinheiro,10,Em andamento,4
+ORD96971,191,Cliente_191,Restaurante_19,Marmita,20.62,13.16,2024-01-01 14:10:00,Dinheiro,21,Em andamento,5
+ORD16664,192,Cliente_192,Restaurante_15,Vegano,162.01,6.0,2024-01-01 14:11:00,Carteira Digital,41,Cancelado,1
+ORD81062,193,Cliente_193,Restaurante_17,Marmita,136.99,8.51,2024-01-01 14:12:00,Dinheiro,57,Entregue,5
+ORD96384,194,Cliente_194,Restaurante_2,Bebidas,62.32,13.16,2024-01-01 14:13:00,Carteira Digital,26,Entregue,2
+ORD79000,195,Cliente_195,Restaurante_29,Sushi,70.7,13.01,2024-01-01 14:14:00,Dinheiro,38,Cancelado,4
+ORD88664,196,Cliente_196,Restaurante_47,Salada,16.52,2.61,2024-01-01 14:15:00,Boleto,38,Entregue,3
+ORD25288,197,Cliente_197,Restaurante_18,Bebidas,279.41,4.39,2024-01-01 14:16:00,Boleto,51,Entregue,1
+ORD94505,198,Cliente_198,Restaurante_36,Pizza,249.21,9.37,2024-01-01 14:17:00,Boleto,37,Em andamento,3
+ORD80214,199,Cliente_199,Restaurante_21,Marmita,290.65,10.67,2024-01-01 14:18:00,Carteira Digital,55,Entregue,1
+ORD72685,200,Cliente_200,Restaurante_39,Vegano,38.54,7.24,2024-01-01 14:19:00,Dinheiro,17,Cancelado,2
