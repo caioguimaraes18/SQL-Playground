@@ -35,11 +35,15 @@ CTEs ajudam a estruturar consultas complexas de maneira mais legível e reutiliz
 
 ``` sql
 WITH vendas_cliente AS (
-    SELECT cliente_id, SUM(valor) AS total_vendas
+    SELECT
+        cliente_id,
+        SUM(valor) AS total_vendas
     FROM vendas
     GROUP BY cliente_id
 )
-SELECT cliente_id, total_vendas
+SELECT 
+    cliente_id, 
+    total_vendas
 FROM vendas_cliente
 WHERE total_vendas > 1000;
 ```
@@ -48,7 +52,10 @@ WHERE total_vendas > 1000;
 Exemplo de junção entre duas tabelas:
 
 ``` sql
-SELECT c.nome, p.produto, v.valor
+SELECT 
+    c.nome, 
+    p.produto, 
+    v.valor
 FROM clientes c
 JOIN vendas v ON c.cliente_id = v.cliente_id
 JOIN produtos p ON v.produto_id = p.produto_id;
